@@ -1,5 +1,7 @@
 # hello-world
 Mi primer repositorio de prueba
-Pero creo que este es mi segundo edit sobre el archivo README. El anterior no lo veo. Asi que estoy repitieno un edit para recordar como se procede.
-Creo que la vez pasada no hice un commit message ni tampoco committed the changes en el archivo README.
-No encuentro la opción write a commit message.
+Estoy introduciendo cambios en el "feature" branch titulado readme-edits
+que me permitan en un futuro recordar cuales fueron esos cambios.
+Me pregunto que tipo de archivo es readme-edits.
+Se que es una copia del master branch pero no más.
+Funciona como un editor de texto.
